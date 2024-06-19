@@ -13,4 +13,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=israelo19&show_icons=true&locale=en&layout=compact" alt="israelo19" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israelo19&show_icons=true&locale=en" alt="israelo19" /></p>
 
-Scroll Down ```:)``` ⬇️
+Scroll Down ⬇️
