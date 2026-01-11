@@ -1,5 +1,5 @@
 <h1 align="left"> Israel Ogwu 💻</h1>
-<h3 align="left">AI Safety & Security | Modern Day Iron Man <img align="center" src="https://media.designrush.com/inspiration_images/134803/conversions/_1511457462_313_cisco-preview.jpg" alt="israelo19" height="20" width="30" /> | Junior Computer Science major at the University of Maryland, College Park</h3>
+<h3 align="left">AI Safety & Security | Modern Day Iron Man | Junior Computer Science major at the University of Maryland, College Park</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
