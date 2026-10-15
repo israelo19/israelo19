@@ -1,5 +1,5 @@
 <h1 align="left"> Israel Ogwu 💻</h1>
-<h3 align="left">SWE Prev at Microsoft, Cisco | AI Safety & Security | Modern Day Iron Man | Senior Computer Science major at the University of Maryland, College Park</h3>
+<h3 align="left">Prev at Microsoft, Cisco | AI Safety & Security | Modern Day Iron Man | Senior Computer Science major at the University of Maryland, College Park</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
